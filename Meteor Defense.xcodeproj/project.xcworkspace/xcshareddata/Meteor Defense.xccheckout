@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>559D599C-5B8B-439D-846B-3E2E142DE9F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Meteor Defense</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</key>
+		<string>https://github.com/randym32/Meteor-Defense.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Meteor Defense.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/randym32/Meteor-Defense.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Meteor Defense multi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
