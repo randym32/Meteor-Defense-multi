@@ -38,14 +38,19 @@ state variables are:
 
 ### Steps to solve the challenge
 
-This is intended to be a straight-forward learn-the-language task, and how structure some of the relevant math
-into it.  So this problem doesn't rely too heavily on deriving the equations -- but you're expected to work out
+In this section I'm going to give a walk-thru in the steps of solving the problem (and generally how to set
+of the software to meet challenges in games like this.)
+
+This game is intended to be a straight-forward learn-the-language task, and how to structure the relevant math
+in the game.  This problem doesn't rely too heavily on deriving the equations -- but you're expected to work out
 how to get them into the computer program appropriately.
 
-It is too easy to dismess the pictures.  Do not.  They help break the problem down, make it easily solvable (or
-at least, easier to solve), organize the information you need, and help reduce mistakes.
+I will use diagrams; it's tempting to dismiss them, as they are "just" pictures.  Do not.  They help break the problem
+down, make it easily solvable (or at least, easier to solve), organize the information you need, and help reduce mistakes.
 
-->![Step 1](step1.png "Step 1")-<
+#### Step 1: Diagram the situation
+
+![Step 1](step1.png "Step 1")
 
 The first step is diagram the basic event that is happening: the who's, the when's, and the where's.
 The objective is to shoot an meteor before it hits the ground.  So the "who's" are a meteor and a bullet (which I'm
@@ -55,24 +60,28 @@ Diagram the meteor's flight:
 ->(System Diagram)<-
 
 
-->![Step 2](step2.png "Step 2")<-
+#### Step 2: Describe each of the objects
+
+![Step 2](step2.png "Step 2")
 
 The next step is to describe the meteor and it's flight.
 
 ![Meteor diagram](meteor.png "The meteor's parameters")
 
 
+#### Step 3: Solve the equations, and implement it in code
 
-->![Step 3](step3.png "Step 3")<-
+![Step 3](step3.png "Step 3")
 
 Pick a time before the meteor will hit the ground.  In the simple challenge, the meteors never hit the ground before t=1.0.
-So pick a time such as t=0.5 and intercept the point there.
+So let's pick a time such as t=0.5 and intercept the meteor there.
 
 1. Calculate where the meteor be at t=0.5
 2. Calculate the vector from artillery starting point to where the meteor will be
 3. Divide that t=0.5.  Why do we have to do this?  The vector says how far (and which direction) the artillery has to go, but not how long.   So we need to divide it by the amount of time it has to get there.
 
-
+I'm not going to get explicit steps how to make this algebra, nor am I going to give explicit steps on how to code it.
+That's __your__ job.
 
 
 Requirements
