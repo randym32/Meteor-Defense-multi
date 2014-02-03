@@ -10,6 +10,7 @@
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
 		2A1891B40E410AB400D703E0 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A1891B10E410AB400D703E0 /* AppController.m */; };
 		2A1891EB0E410DD700D703E0 /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A1891EA0E410DD700D703E0 /* Quartz.framework */; };
+		3DB7219C189F1B600060C1A4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3DB7219B189F1B600060C1A4 /* README.md */; };
 		3DDD74D9188DE179008B0DAD /* Meteor Defense.qtz in Resources */ = {isa = PBXBuildFile; fileRef = 3DDD74D8188DE179008B0DAD /* Meteor Defense.qtz */; };
 		3DDD74DB188F5C18008B0DAD /* ArtilleryTargeting.c in Sources */ = {isa = PBXBuildFile; fileRef = 3DDD74DA188F5C18008B0DAD /* ArtilleryTargeting.c */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
@@ -29,6 +30,7 @@
 		2A1891B20E410AB400D703E0 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
 		2A1891EA0E410DD700D703E0 /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = /System/Library/Frameworks/Quartz.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* Meteor Defense_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Meteor Defense_Prefix.pch"; sourceTree = "<group>"; };
+		3DB7219B189F1B600060C1A4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		3DDD74D8188DE179008B0DAD /* Meteor Defense.qtz */ = {isa = PBXFileReference; lastKnownFileType = "video.quartz-composer"; path = "Meteor Defense.qtz"; sourceTree = "<group>"; };
 		3DDD74DA188F5C18008B0DAD /* ArtilleryTargeting.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ArtilleryTargeting.c; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 		29B97314FDCFA39411CA2CEA /* QCFullscreen */ = {
 			isa = PBXGroup;
 			children = (
+				3DB7219B189F1B600060C1A4 /* README.md */,
 				3DDD74DA188F5C18008B0DAD /* ArtilleryTargeting.c */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -177,6 +180,7 @@
 			files = (
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				3DB7219C189F1B600060C1A4 /* README.md in Resources */,
 				3DDD74D9188DE179008B0DAD /* Meteor Defense.qtz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
