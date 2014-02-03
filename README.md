@@ -45,7 +45,7 @@ how to get them into the computer program appropriately.
 It is too easy to dismess the pictures.  Do not.  They help break the problem down, make it easily solvable (or
 at least, easier to solve), organize the information you need, and help reduce mistakes.
 
-->!(Step 1)[step1.png "Step 1"]-<
+->![Step 1](step1.png "Step 1")-<
 
 The first step is diagram the basic event that is happening: the who's, the when's, and the where's.
 The objective is to shoot an meteor before it hits the ground.  So the "who's" are a meteor and a bullet (which I'm
@@ -55,15 +55,15 @@ Diagram the meteor's flight:
 ->(System Diagram)<-
 
 
-->!(Step 2)[step2.png "Step 2"]<-
+->![Step 2](step2.png "Step 2")<-
 
 The next step is to describe the meteor and it's flight.
 
-!(Meteor diagram)[meteor.png "The meteor's parameters"]
+![Meteor diagram](meteor.png "The meteor's parameters")
 
 
 
-->!(Step 3)[step3.png "Step 3"]<-
+->![Step 3](step3.png "Step 3")<-
 
 Pick a time before the meteor will hit the ground.  In the simple challenge, the meteors never hit the ground before t=1.0.
 So pick a time such as t=0.5 and intercept the point there.
