@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>559D599C-5B8B-439D-846B-3E2E142DE9F0</string>
+	<string>46F80C96-5396-4DEF-821B-8E0FF8A4674E</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Meteor Defense</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</key>
-		<string>https://github.com/randym32/Meteor-Defense.git</string>
+		<key>71BBFD80-97AB-4E88-B5B7-F2A29B84BC4E</key>
+		<string>https://github.com/randym32/Meteor-Defense-multi.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Meteor Defense.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</key>
+		<key>71BBFD80-97AB-4E88-B5B7-F2A29B84BC4E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/randym32/Meteor-Defense.git</string>
+	<string>https://github.com/randym32/Meteor-Defense-multi.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</string>
+	<string>71BBFD80-97AB-4E88-B5B7-F2A29B84BC4E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2F6A247F-4DAD-4DAB-92D2-5664135DC32A</string>
+			<string>71BBFD80-97AB-4E88-B5B7-F2A29B84BC4E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Meteor Defense multi</string>
 		</dict>
