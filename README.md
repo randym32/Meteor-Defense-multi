@@ -57,7 +57,8 @@ The objective is to shoot an meteor before it hits the ground.  So the "who's" a
 calling an artillery.).  The where's is the place they hit each other.  And the "when" is the point in time they intersect
 
 Diagram the meteor's flight:
-->(System Diagram)<-
+
+![Intercepting the meteor](intercept.png "Intercepting the meteor")
 
 
 #### Step 2: Describe each of the objects
@@ -67,6 +68,10 @@ Diagram the meteor's flight:
 The next step is to describe the meteor and it's flight.
 
 ![Meteor diagram](meteor.png "The meteor's parameters")
+
+And the artillery:
+
+![Artillery diagram](artillery.png "The artillery's parameters")
 
 
 #### Step 3: Solve the equations, and implement it in code
@@ -81,7 +86,7 @@ So let's pick a time such as t=0.5 and intercept the meteor there.
 3. Divide that t=0.5.  Why do we have to do this?  The vector says how far (and which direction) the artillery has to go, but not how long.   So we need to divide it by the amount of time it has to get there.
 
 I'm not going to get explicit steps how to make this algebra, nor am I going to give explicit steps on how to code it.
-That's __your__ job.
+That's _your_ job.
 
 
 Requirements
