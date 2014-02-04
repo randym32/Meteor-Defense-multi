@@ -54,9 +54,7 @@ down, make it easily solvable (or at least, easier to solve), organize the infor
 
 The first step is diagram the basic event that is happening: the who's, the when's, and the where's.
 The objective is to shoot an meteor before it hits the ground.  So the "who's" are a meteor and a bullet (which I'm
-calling an artillery.).  The where's is the place they hit each other.  And the "when" is the point in time they intersect
-
-Diagram the meteor's flight:
+calling an artillery.).  The where's is the place they hit each other.  And the "when" is the point in time they intersect:
 
 ![Intercepting the meteor](intercept.png "Intercepting the meteor")
 
